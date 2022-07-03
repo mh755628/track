@@ -24,11 +24,9 @@ def get_submission_data(handles):
 
     return F[15:27]
 
-# data = get_submission_data(['mh755628', '00000007', 'I_HATE_GEOMETRY'])
+data = get_submission_data([])
 
-data = [70, 68, 78, 91, 151, 143, 134, 129, 118, 115, 103, 47]
 
-#make a bar chart of the data wide
 
 col = []
 
